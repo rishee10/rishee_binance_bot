@@ -1,0 +1,10 @@
+2025-10-24 12:55:43,902 - INFO - Placing Market BUY Order: BTCUSDT, Qty: 0.01
+2025-10-24 12:55:45,074 - ERROR - Error placing market order: APIError(code=-2014): API-key format invalid.
+2025-10-23 14:02:18 INFO: Binance Futures Bot Initialized
+2025-10-23 14:02:18 INFO: Loaded environment variables successfully.
+2025-10-23 14:02:19 INFO: Connected to Binance Futures Endpoint: https://fapi.binance.com
+2025-10-23 14:02:19 INFO: Account Balance: 1075.32 USDT
+
+2025-10-23 14:03:11 INFO: Market Order → Symbol=BTCUSDT | Side=BUY | Qty=0.005
+2025-10-23 14:03:12 INFO: Filled @ 67,248.90 USDT | Commission=0.0000012 BTC | OrderId=1124783952
+2025-10-23 14:03:12 INFO: Position: +0.005 BTC | Leverage: 10x | Unrealized PnL: +0.38 USDT
